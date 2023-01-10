@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.004" viewBox="0 0 16 16.004">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: current;
+      }
+    </style>
+  </defs>
+  <g id="Icon_ionic-ios-cube" data-name="Icon ionic-ios-cube" transform="translate(-3.375 -3.375)">
+    <path id="Path_603" data-name="Path 603" class="cls-1" d="M19.078,6.51l-6.89-3.089a.535.535,0,0,0-.435,0L4.859,6.51a.323.323,0,0,0-.015.569l6.875,3.62a.524.524,0,0,0,.5,0l6.875-3.62A.323.323,0,0,0,19.078,6.51Z" transform="translate(-0.591)"/>
+    <path id="Path_604" data-name="Path 604" class="cls-1" d="M19.342,23.156,26.27,19.49a.311.311,0,0,0,.138-.262V12.115A.286.286,0,0,0,26,11.842l-6.929,3.57a.3.3,0,0,0-.162.273v7.206A.29.29,0,0,0,19.342,23.156Z" transform="translate(-7.034 -3.82)"/>
+    <path id="Path_605" data-name="Path 605" class="cls-1" d="M3.375,12.116v7.109a.311.311,0,0,0,.138.262l6.929,3.666a.284.284,0,0,0,.431-.262V15.686a.3.3,0,0,0-.162-.273l-6.925-3.57A.288.288,0,0,0,3.375,12.116Z" transform="translate(0 -3.82)"/>
+  </g>
+</svg>
